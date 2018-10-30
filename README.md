@@ -4,7 +4,9 @@ Creates an App Model Application in SCCM for All Dell Models found in an SCCM en
 Uses a method Described by Adam Juelich here: https://deployables.net/2018/10/25/updating-dell-bios-via-configmgr-application-method/
 
 Uses Scripts and Functions Sourced from the Following:
+
 	Copy-CMDeploymentTypeRule - https://janikvonrotz.ch/2017/10/20/configuration-manager-configure-requirement-rules-for-deployment-types-with-powershell/
+	
 	Modifying a CM Requriement - https://fredbainbridge.com/2016/06/21/configmgr-add-os-requirements-to-an-application-deployment-type/
 
 NOTES:
